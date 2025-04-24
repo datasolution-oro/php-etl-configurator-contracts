@@ -19,7 +19,7 @@
         "nikic/php-parser": "^4.15",
         "symfony/config": "^6.0",
         "php-etl/packaging-contracts": "0.3.*",
-        "psr/log": "^3.0",
+        "psr/log": "^1|^2|^3",
         "symfony/expression-language": "^6.0"
     },
     "require-dev": {
